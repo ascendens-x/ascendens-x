@@ -12,8 +12,6 @@ Fine-tuned Qwen3-VL-8B
 
 **Stack:** Unsloth · QLoRA · GGUF · Ollama · RAG · Python
 
-ВИДЕО_ССЫЛКА_ЗДЕСЬ
-
 Source code is private (commercial project) — happy to walk through the
 architecture and training pipeline in an interview.
 
